@@ -6,7 +6,7 @@
   - Performs Go-To when only one result is found
   - include & exclude search paths can be configured
 - Formatter [c3fmt.lua](https://github.com/0riginaln0/pragtical-c3/blob/main/c3fmt.lua)
-  - Format all file
+  - Format whole file
   - Format selection
 
 
