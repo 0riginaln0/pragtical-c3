@@ -1,3 +1,5 @@
+The repo is pragtical-c3, but all plugins here should work just fine with the Lite XL.
+
 # Features
 
 - Syntax highlighting [language_c3.lua](https://github.com/pragtical/plugins/blob/master/plugins/language_c3.lua).
