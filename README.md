@@ -2,7 +2,7 @@
 
 - Syntax highlighting [language_c3.lua](https://github.com/pragtical/plugins/blob/master/plugins/language_c3.lua).
 - Go-To & Find symbol [c3find.lua](https://github.com/0riginaln0/pragtical-c3/blob/main/c3find.lua)
-  - Builds regex to find function, macro, method, faultdef, constant, enum, etc.
+  - Builds regex to find a function, macro, method, faultdef, const, enum, etc.
   - Performs Go-To when only one result is found
   - include & exclude search paths can be configured
 - Formatter [c3fmt.lua](https://github.com/0riginaln0/pragtical-c3/blob/main/c3fmt.lua)
