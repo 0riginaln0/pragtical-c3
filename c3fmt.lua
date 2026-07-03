@@ -10,8 +10,8 @@ local common = require "core.common"
 -------------------
 
 local C3FMT_PATH
-if PLATFORM == "Windows" then C3FMT_PATH = "C:\\Games\\bins\\c3\\c3fmt.exe"
-else                          C3FMT_PATH = "/home/namesurname/Downloads/bin/c3/c3fmt" end
+if PLATFORM == "Windows" then C3FMT_PATH = "C:\\PLEASE\\PROVIDE\\PATH\\FOR\\c3fmt.exe"
+else                          C3FMT_PATH = "/home/PLEASE/PROVIDE/PATH/FOR/c3fmt" end
 
 local C3FMT_CONFIG = {
   use_tabs = false,
